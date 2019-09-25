@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845105197118",
+    "firebase_url": "https://fab-find.firebaseio.com",
+    "project_id": "fab-find",
+    "storage_bucket": "fab-find.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845105197118:android:83a90cffe849a1a4e8216f",
+        "android_client_info": {
+          "package_name": "com.kosmicdust.fab_find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845105197118-5hvp16fmrep9jalsrduaiabffs7ubdp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosmicdust.fab_find",
+            "certificate_hash": "6c95b872c660dfa18a7547b9dff5cb4290da232d"
+          }
+        },
+        {
+          "client_id": "845105197118-rolan34peapd0p8r1gt6klll66cpamie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNrjKgeV0z8wxLkUTiHM0B_gC8i-EmaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845105197118-rolan34peapd0p8r1gt6klll66cpamie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
